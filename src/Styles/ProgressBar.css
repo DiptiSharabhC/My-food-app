@@ -1,0 +1,52 @@
+  
+.containerStyles  {
+      height: 20;
+      width: 100%;
+      background-color:blue;
+      border-radius: 50;
+      margin: 50
+    }
+  
+    .fillerStyles{
+      height: 10%;
+      width: 20%;
+      background-color:aqua;
+      border-radius: 'inherit';
+      text-align: 'right';
+      font-size:medium
+    }
+  
+   .labelStyles{
+      padding: 5;
+      color: 'white';
+      font-weight: 'bold';
+      font-size: small
+      
+    }
+    .progressBarSize{
+        margin-top:100px;
+        height: 20%;
+        width:100%;
+        font-weight: bold;
+        align-items: center;
+        display:block;
+        forced-color-adjust: red;
+        font-size: xx-small;
+        color: darkblue;
+        position: relative;
+    }
+    .orderstyle{
+        height: 51px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        margin: 30px;
+    }
+  
+   

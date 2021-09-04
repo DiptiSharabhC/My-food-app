@@ -1,0 +1,31 @@
+.contentsection {
+    margin-top: 80px;
+    
+    font-family: Poppins;
+    
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.formSection{
+        padding: 5px;
+        margin: 5px;
+        font-size: 18px;
+        width: max-content;
+        align-items: right;
+}
+.submitBtn{
+    width:100px;
+    height:50px;
+    margin:10px;
+    margin-left: 300px;
+    color: white;
+    text-align: center;
+    background-color: red;
+    border-radius: 5px;
+}

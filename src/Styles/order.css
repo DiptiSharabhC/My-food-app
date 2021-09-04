@@ -1,0 +1,21 @@
+.ordersection{
+    margin: 100px;
+}
+.btnstyle{
+    color:bisque;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-decoration-color: bisque;
+    background-color:#192f60;
+}
+.headingsection{
+    font-size: 24px;
+    font-weight: bold;
+    color:#192f60
+}
+.tableheading{
+    font-size: 14px;
+    font-weight: bold;
+    color:#192f60
+}
