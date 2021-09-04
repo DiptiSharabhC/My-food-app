@@ -421,7 +421,7 @@ class Header extends Component {
                             icon="fa-facebook"
                         />
                         <GoogleLogin 
-                            clientId="972644505724-1v1a2dlqktm0cl3ssa0v3vh3a443pu48.apps.googleusercontent.com"
+                            clientId="924525293005-fsh047sf3kcqbus7q35iv3u9ateptcer.apps.googleusercontent.com"
                             buttonText="Continue with Google"
                             onSuccess={this.responseGoogle}
                             onFailure={this.responseGoogle}
@@ -459,7 +459,7 @@ class Header extends Component {
                             icon="fa-facebook"
                         />
                         <GoogleLogin 
-                            clientId="972644505724-1v1a2dlqktm0cl3ssa0v3vh3a443pu48.apps.googleusercontent.com"
+                            clientId="924525293005-fsh047sf3kcqbus7q35iv3u9ateptcer.apps.googleusercontent.com"
                             buttonText="Continue with Google"
                             onSuccess={this.responseGoogle}
                             onFailure={this.responseGoogle}
