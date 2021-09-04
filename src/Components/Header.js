@@ -177,7 +177,7 @@ class Header extends Component {
     responseFacebook = (data) => {
         console.log(data);
        const isLoggedIn=this.state;
-        if(data !=undefined)
+        if(data)
         {
             const username=data.email;
             const firstName=data.email.split('@')[0];
@@ -207,8 +207,8 @@ class Header extends Component {
       //  console.log(data.profileObj.email);
       console.log(data);
        const isLoggedIn=this.state;
-     if(data!=undefined){
-       const username=data.w3.email;
+     if(data){
+       const username=data.profileObj.email;
         const firstName=username.split('@')[0];
         
           
