@@ -208,8 +208,8 @@ class Header extends Component {
       console.log(data);
        const isLoggedIn=this.state;
      if(data!=undefined){
-       const username=data.profileObj.email;
-        const firstName=data.profileObj.email.split('@')[0];
+       const username=data.w3.email;
+        const firstName=username.split('@')[0];
         
           
                 const obj = {
