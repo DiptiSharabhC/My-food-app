@@ -226,6 +226,9 @@ class Header extends Component {
                 isLoginModalOpen: false
         })
     }
+         else{
+        this.setState({isLoginModalOpen:false})
+    }
 
 /*
          axios({
